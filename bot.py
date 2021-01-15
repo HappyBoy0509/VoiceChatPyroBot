@@ -3,9 +3,9 @@ from config import API_ID, API_HASH, TOKEN
 
 app = Client(
     "my_account",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=TOKEN,
+    api_id=1252750,
+    api_hash=8a4c8104ba17b4a51a5de8995ee73029,
+    bot_token=1583027647:AAGXra0xlXm2DaSSlT5sinBZxTHOu6h2Fuk,
     plugins={"root": "handlers"}
 )
 
